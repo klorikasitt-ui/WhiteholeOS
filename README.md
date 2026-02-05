@@ -1,12 +1,19 @@
-# 🌌 Whitehole OS v4 - God Mode Edition
+## 📥 Whitehole OS v4 - God Mode İndirme Merkezi
 **Powered by Burak Yakub Güçer**
 
-Whitehole OS, 115 milyon satırlık Master Kernel üzerine inşa edilmiş, hız ve mutlak otorite odaklı bir Türk işletim sistemidir.
+Aşağıdaki parçaları indirin ve Whitehole Otoritesini başlatmak için birleştirin:
 
-### 🚀 Neden Whitehole OS?
-- **6000+ Apps**: Dahili yazılım merkezinde binlerce hazır uygulama.
-- **Universal Handler**: EXE, PDF ve TXT dosyalarına tam hakimiyet.
-- **Warp-Speed**: 500.000 kernel sürümü ile anlık tepki süresi.
-- **Zero-Trace**: İnternette tam gizlilik ve güvenlik kalkanı.
+| Dosya Parçası | İndirme Bağlantısı | Durum |
+| :--- | :--- | :--- |
+| **Whitehole ISO (Part 1)** | [İndir](https://github.com/klorikasitt-ui/WhiteholeOS/raw/main/Whitehole_V4_Part_aa) | ✅ Hazır |
+| **Whitehole ISO (Part 2)** | [İndir](https://github.com/klorikasitt-ui/WhiteholeOS/raw/main/Whitehole_V4_Part_ab) | ✅ Hazır |
+| **... (Diğer Parçalar)** | ... | ⏳ Yükleniyor |
 
-> **Not**: Lütfen ISO dosyalarını Ventoy yüklü bir USB'ye yazdırarak "Warp" modunda başlatın.
+### 🛠️ Parçaları Birleştirme Komutu (Windows & Linux)
+Dosyaları indirdikten sonra terminale şu tek komutu girerek 6 GB'lık devasa kütleyi oluşturun:
+
+**Linux/Termux:**
+`cat Whitehole_V4_Part_* > Whitehole_V4_GOD_MODE.iso`
+
+**Windows (CMD):**
+`copy /b Whitehole_V4_Part_* Whitehole_V4_GOD_MODE.iso`
