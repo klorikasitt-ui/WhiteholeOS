@@ -1,5 +1,5 @@
-## 📥 WHİTEHOLE İNDİRME BAĞLANTILARI##
-**Powered by Burak Yakub Güçer**
+## İNDİRME BAĞLANTILARI ##
+**By Burak Yakub Güçer**
 
 | Dosya Parçası | İndirme Bağlantısı | Durum |
 | :--- | :--- | :--- |
