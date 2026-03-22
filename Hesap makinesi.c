@@ -4,7 +4,7 @@ int main()
 while(1)
 {
 int x, y, islem;
-printf("Bilgi kutusu islem icin (not islem girin yazan yer gelince gecerlidir)1 Toplama, 2 Cikarma 3 Carpma\n");
+printf("Bilgi kutusu islem icin (not islem girin yazan yer gelince gecerlidir)1 Toplama, 2 Cikarma 3 Carpma, 0 cikis\n");
 printf("bir sayi gir\n");
 scanf("%d" , &x);
 printf("ikinci sayiyi gir\n");
