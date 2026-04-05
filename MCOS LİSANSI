@@ -1,0 +1,39 @@
+[SİSTEM ADI] - MCOS Lisansı (v1.2-OS)
+Telif Hakkı (c) [TAM TARİH] [GELİŞTİRİCİ ADI].
+Tüm Hakları Saklıdır.
+Bu yazılım (Kernel, Bootloader, 
+Sürücüler ve Sistem Araçları), aşağıdaki 
+şartlar altında korunmaktadır:
+1. Kullanım ve Dağıtım Şartları
+OS Odaklı Kullanım: Bu kodlar yalnızca
+işletim sistemi geliştirme ve eğitim
+faaliyetleri kapsamında kullanılabilir.
+Ticari Yasak: Bu sistemin kodları,
+binary dosyaları veya derlenmiş hali 
+hiçbir şekilde ticari bir ürüne 
+dönüştürülemez,satılamaz veya ücretli
+abonelik sistemlerine dahil edilemez.
+Kaynak Kod ve Atıf: Bu kodu kendi
+kernel veya OS projesine dahil eden
+her geliştirici, sistemin açılış 
+ekranında (boot screen), "About" kısmında 
+veya kaynak kodun en üstünde 
+"[GELİŞTİRİCİ ADI]" ismini "Orijinal Mimar"
+olarak belirtmek ZORUNDADIR.
+Lisans Değiştirme Yasağı: Bu lisans metni,
+dağıtılan projenin LICENSE dosyasında 
+aynen korunmalıdır. Metnin silinmesi 
+telif hakkı ihlali ve illegal faaliyet 
+sayılır.
+2. Teknik Sorumluluk Reddi
+(Kernel Space Disclaimer)
+Donanım Riski: İşletim sistemi
+seviyesindeki kodların (Assembly/C)
+doğrudan donanıma eriştiği bilinmektedir.
+Yazılımın çalıştırılması sırasında 
+oluşabilecek CPU aşırı ısınması, disk veri
+kayıpları veya BIOS/UEFI arızalarından
+[GELİŞTİRİCİ ADI] sorumlu değildir.
+Deneysel Statü: Bu yazılım deneysel
+bir OS çalışmasıdır; kritik sistemlerde
+kullanımı önerilmez.
